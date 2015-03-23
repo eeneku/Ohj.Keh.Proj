@@ -19,3 +19,5 @@ You just cant do the minimum amount of security and add more as you start doing 
 4. A simple game for an android phone: incremental
 
 Develop the basic gameplay mechanics and add more content.
+
+Y U NO WORK
