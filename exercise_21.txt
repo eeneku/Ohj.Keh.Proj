@@ -12,7 +12,7 @@ Depends on the size of the project. Waterfall for small sites and incremental fo
 
 3. The control system for a nuclear plant: waterfall
 
-You just cant do the basic security systems and add more as you start doing nuclear stuff. Too risky.
+You just cant do the minimum amount of security and add more as you start doing nuclear stuff. Too risky.
 
 
 
