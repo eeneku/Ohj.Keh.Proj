@@ -1,0 +1,21 @@
+1. E-learning system: incremental
+
+You do the basic system and add more features when the system is online.
+
+
+
+2. A general purpose website: waterfall/incremental
+
+Depends on the size of the project. Waterfall for small sites and incremental for larger, e.g. webshops.
+
+
+
+3. The control system for a nuclear plant: waterfall
+
+You just cant do the basic security systems and add more as you start doing nuclear stuff. Too risky.
+
+
+
+4. A simple game for an android phone: incremental
+
+Develop the basic gameplay mechanics and add more content.
